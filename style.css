@@ -1,0 +1,42 @@
+div{
+    margin-top: 25px;
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+.red{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+.black{
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+.click{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
